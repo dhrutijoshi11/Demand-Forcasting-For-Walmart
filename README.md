@@ -114,7 +114,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ---
 
 ## 📬 **Contact**
-For questions or collaboration, reach out to me on [LinkedIn](https://linkedin.com/in/your-profile) or via email at your.email@example.com.
+For questions or collaboration, reach out to me on [LinkedIn](https://www.linkedin.com/in/dhrutijoshi16/) or via email at 16dhrutijoshi@gmail.com.
 
 ---
 
