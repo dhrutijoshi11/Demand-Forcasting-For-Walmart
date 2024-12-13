@@ -71,6 +71,7 @@ These visualizations provide actionable insights for data-driven decision-making
 - **Operational Efficiency**: Accurate forecasts minimize overstocking and stockouts.
 - **Risk Mitigation**: Proactively address underperforming areas.
 
+For a detailed use case study, check out the [PDF here]([URL_TO_YOUR_PDF](https://drive.google.com/file/d/1gZqMu5MI-mnCyaQ8WtRwnhb3kLris5s7/view?usp=sharing)).
 ---
 
 ## 🛠️ **Tools & Technologies**
